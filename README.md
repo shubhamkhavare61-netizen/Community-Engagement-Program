@@ -7,3 +7,6 @@ Many senior citizens face difficulties in using smartphones, computers, and onli
 As a result, they struggle to access online banking, healthcare services, digital payments, government portals, and communication platforms, 
 making them dependent on others.
 
+Objectives :
+
+
