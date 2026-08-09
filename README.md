@@ -10,9 +10,9 @@ making them dependent on others.
 
 Objectives :
 <br>
-1.To improve basic digital literacy among senior citizens.
-2.To teach the safe use of smartphones and the internet.
-3.To create awareness about cyber security and online fraud.
+1.To improve basic digital literacy among senior citizens.<br>
+2.To teach the safe use of smartphones and the internet.<br>
+3.To create awareness about cyber security and online fraud.<br>
 4.To help senior citizens use digital payment application.
 
 
