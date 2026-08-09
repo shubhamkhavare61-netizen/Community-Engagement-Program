@@ -1,6 +1,6 @@
 # Community-Engagement-Program
 
-Digital Litrecy For Senior Citizens
+Digital Literacy For Senior Citizens
 
 Problem statement :
 <br>
@@ -9,5 +9,11 @@ As a result, they struggle to access online banking, healthcare services, digita
 making them dependent on others.
 
 Objectives :
+<br>
+1.To improve basic digital literacy among senior citizens.
+2.To teach the safe use of smartphones and the internet.
+3.To create awareness about cyber security and online fraud.
+4.To help senior citizens use digital payment application.
+
 
 
