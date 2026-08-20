@@ -15,7 +15,7 @@ Objectives :
 3.To create awareness about cyber security and online fraud.<br>
 4.To help senior citizens use digital payment application.<br>
 5.To help them access online healthcare services, such as booking appointments and downloading medical reports.<br>
-6.To familiarize them with government websites and online public services.<br>
+6.To familiarize them with government websites and online public services.
 
 
 
